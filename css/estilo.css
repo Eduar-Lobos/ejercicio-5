@@ -1,0 +1,29 @@
+
+body{
+	background:#F9CB9C;
+	font-family: ArialMT;
+
+
+}
+
+.problema{
+background:#B6D7A8;
+font-family: ArialMT;
+font-size: 16px;
+padding: 0 0 0 0;
+
+}
+
+.solucion{
+	background: #9FC5E8;
+	font-family: ArialMT;
+	font-size: 16px;
+	padding: 0 0 0 0;
+}
+
+footer{
+	text-align: right;
+	font-family: ArialMT;
+	font-size:  0 0 0 0;
+
+}
